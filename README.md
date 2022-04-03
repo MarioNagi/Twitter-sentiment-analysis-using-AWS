@@ -17,10 +17,12 @@ you are required to build a solution that monitors and ingests specific tweets t
 • Cost efficient.
 
 # Real life challenges:
-• Social media integration
-(Twitter/FB/Instagram/LinkedIn).
+• Social media integration (Twitter/FB/Instagram/LinkedIn).
+
 • Content filtration.
+
 • Data format handling.
+
 • Data volume (rate & size)
 
 # Proposed solution Design

@@ -6,11 +6,14 @@ you are required to build a solution that monitors and ingests specific tweets t
 
 # Why is this important?
 
-• Capture mass public opinion for any new service, decision or
-direction.
+• Capture mass public opinion for any new service, decision or direction.
+
 • Forms a feedback loop between entities and people.
+
 • Fully automated.
+
 • Real-time.
+
 • Cost efficient.
 
 # Real life challenges:

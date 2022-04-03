@@ -35,3 +35,6 @@ direction.
 3- Networking and Security (VPC & secret manager)
 
 4- cost optimization
+
+
+

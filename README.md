@@ -28,7 +28,10 @@ direction.
 
 # Design Considerations:
 
-1-Operational Excellence ()
+1-Operational Excellence (serverless & Highly available)
+
 2- Loose Coupling
+
 3- Networking and Security (VPC & secret manager)
+
 4- cost optimization
